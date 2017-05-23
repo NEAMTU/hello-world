@@ -1,2 +1,4 @@
 # hello-world
-first project in git
+my first project in git
+
+just an edit
